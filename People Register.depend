@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1588000946 source:d:\programming\c\“”\À‡·\linked list\people register\main.c
+	"main.h"
+	"editPerson.h"
+	"writeDataInFile.h"
+	"readDataFromFile.h"
+	"inputPerson.h"
+	"registerMenu.h"
+	"addElementAtEnd.h"
+	"addElementAtIndex.h"
+	"createElement.h"
+	"removeElement.h"
+	"removeElementAtIndex.h"
+	"getPerson.h"
+	"printPeople.h"
+	"printPerson.h"
+	"comparePeople.h"
+	"sortPeopleByAge.h"
+	"swap.h"
+
+1587999421 d:\programming\c\“”\À‡·\linked list\people register\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1587998510 d:\programming\c\“”\À‡·\linked list\people register\editperson.h
+
+1587998812 d:\programming\c\“”\À‡·\linked list\people register\writedatainfile.h
+
+1587998885 d:\programming\c\“”\À‡·\linked list\people register\readdatafromfile.h
+
+1587998939 d:\programming\c\“”\À‡·\linked list\people register\inputperson.h
+
+1588001900 d:\programming\c\“”\À‡·\linked list\people register\registermenu.h
+
+1587999050 d:\programming\c\“”\À‡·\linked list\people register\addelementatend.h
+
+1587999147 d:\programming\c\“”\À‡·\linked list\people register\addelementatindex.h
+
+1587999174 d:\programming\c\“”\À‡·\linked list\people register\createelement.h
+
+1587999203 d:\programming\c\“”\À‡·\linked list\people register\removeelement.h
+
+1587999231 d:\programming\c\“”\À‡·\linked list\people register\removeelementatindex.h
+
+1587999248 d:\programming\c\“”\À‡·\linked list\people register\getperson.h
+
+1587999268 d:\programming\c\“”\À‡·\linked list\people register\printpeople.h
+
+1587999309 d:\programming\c\“”\À‡·\linked list\people register\printperson.h
+
+1587999326 d:\programming\c\“”\À‡·\linked list\people register\comparepeople.h
+
+1588001897 d:\programming\c\“”\À‡·\linked list\people register\sortpeoplebyage.h
+
+1588001088 d:\programming\c\“”\À‡·\linked list\people register\swap.h
+

@@ -1,0 +1,9 @@
+5
+Gosho Male 501219031 Worker 43
+Dimitar Male 501219035 Employee 40
+Dimitrinka Female 501219033 Receptionist 30
+Stoqnka Female 501219034 Service 25
+Grigor Male 501219032 Mechanic 18
+
+Nikola Male 501219001 Programmer 21
+Kostadinka Female 501219002 Journalist 24
